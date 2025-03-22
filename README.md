@@ -2,7 +2,7 @@
 ![Alt text for the image](images/Hero-section%20.png)
 
 
-![Alt text for the image](/images/mockup.png)
+![Alt text for the image](images/mockup-img.png)
 # NovaServe - Professional Web Service Platform
 
 ## 🌍 Introduction
