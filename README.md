@@ -54,7 +54,7 @@ NovaServe is built purely with front-end technologies, ensuring high performance
 ## 🛠️ How to Use
 1. **Download or Clone the Project**
    ```sh
-   git clone https://github.com/yourusername/NovaServe.git
+   git clone https://github.com/dugsiiyeinc/Nova-Serve/.git
    ```
 2. **Navigate to the Project Folder**
    ```sh
