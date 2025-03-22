@@ -47,6 +47,8 @@ NovaServe is built purely with front-end technologies, ensuring high performance
 | Primary      | #2153FF   |
 | Extra        | #FDA702   |
 
+
+![Alt text for the image](images/color%20plate.png)
    
 
 ## 🛠️ How to Use
