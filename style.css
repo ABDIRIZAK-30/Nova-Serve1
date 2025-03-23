@@ -71,7 +71,7 @@ html, body {
 
 .light-effect {
     position: absolute;
-    width: 700px;
+    /* width: 700px; */
     height: 300px;
     background: linear-gradient(120deg, rgba(255, 255, 255, 1), rgba(33, 83, 255, 0.5), transparent);
     filter: blur(40px);
@@ -92,7 +92,7 @@ html, body {
 
 .light-effec2 {
     position: absolute;
-    width: 900px;
+    /* width: 900px; */
     height: 600px;
     left: 0;
     /* right: 100px; */
